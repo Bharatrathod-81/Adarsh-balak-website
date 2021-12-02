@@ -19,8 +19,10 @@ hr{
 }
 .link{
     text-decoration: none;
-    padding: 0.5rem 1rem 0.5rem 0.3rem;
+    margin: auto;
+    padding: 0.5rem ;
     color:#F3F4F6;
+    
     
 }
 .link-primary{
@@ -49,7 +51,7 @@ hr{
     border-radius: 1rem;
     padding: 1rem;
     color:#F3F4F6;
-    font-weight: bold; 
+ 
 }
 .hero{
     padding-top: 2rem;
@@ -87,6 +89,7 @@ hr{
     background-color: black;
     padding: 3rem;
     border-radius: 0.5rem;
+    margin: auto;
 }
 .footer-d{
     text-align: center;
@@ -103,6 +106,7 @@ hr{
     display: inline;
     padding: 1rem;
     font-weight: bold;
+    margin: auto;
     
 }
 .social{
@@ -113,7 +117,7 @@ hr{
     border-radius: 0.5rem;
 }
 .active{
-    font-size: x-large;
+    font-weight: bolder;
 }
 
 
