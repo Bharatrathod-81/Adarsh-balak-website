@@ -51,7 +51,7 @@ hr{
     border-radius: 1rem;
     padding: 1rem;
     color:#F3F4F6;
-    font-weight: bold; 
+ 
 }
 .hero{
     padding-top: 2rem;
@@ -117,7 +117,7 @@ hr{
     border-radius: 0.5rem;
 }
 .active{
-    font-size:x-large;
+    font-weight: bolder;
 }
 
 
