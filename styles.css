@@ -120,7 +120,7 @@ hr{
     border-radius: 0.5rem;
 }
 .active{
-    font-weight: bolder;
+    font-size: x-large;
 }
 @media(max-width:360px) {
     html {
