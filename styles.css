@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+html{
+    font-size: 62.5%;
+}
 body{
     font-family: 'Montserrat', sans-serif;
 }
@@ -119,5 +122,9 @@ hr{
 .active{
     font-weight: bolder;
 }
-
+@media(max-width:360px) {
+    html {
+        font-size: 95%;
+    }
+}
 
