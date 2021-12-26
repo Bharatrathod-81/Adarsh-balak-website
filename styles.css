@@ -25,6 +25,8 @@ hr{
     margin: auto;
     padding: 0.5rem ;
     color:#F3F4F6;
+    font-size: small;
+    font-weight: bold;
     
     
 }
@@ -54,7 +56,9 @@ hr{
     border-radius: 1rem;
     padding: 1rem;
     color:#F3F4F6;
- 
+}
+.nav-brand{
+    font-size: x-large;
 }
 .hero{
     padding-top: 2rem;
@@ -120,7 +124,7 @@ hr{
     border-radius: 0.5rem;
 }
 .active{
-    font-weight: bolder;
+    font-size: large;
 }
 @media(max-width:360px) {
     html {
