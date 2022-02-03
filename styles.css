@@ -120,7 +120,7 @@ hr{
 .active{
     font-size: large;
 }
-@media(max-width:360px) {
+@media(min-width:360px) {
     html {
         font-size: 95%;
     }
