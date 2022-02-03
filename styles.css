@@ -120,14 +120,5 @@ hr{
 .active{
     font-size: large;
 }
-@media(max-width:570px) {
-    html {
-        font-size: 50%;
-    }
-}
-@media(max-width:600px) {
-    html {
-        font-size: 100%;
-    }
-}
+
 
