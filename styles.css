@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 590px) {
   html {
-    font-size: 22px;
+    font-size: 17px;
   }
 }
 
