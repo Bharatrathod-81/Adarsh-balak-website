@@ -48,6 +48,13 @@ hr{
     border:1px solid #F3F4F6;
     font-weight: bold;
 }
+.para_div{
+   display: flex;
+   justify-content: center;
+}
+.paragraph{
+    width: 70%;
+}
 .list{
     display: inline;
     padding: 0rem 0.5rem;
